@@ -1,3 +1,5 @@
 This repo is an experiment on git trailer
 
-add a nice feature
+nice feature is added
+
+other feature is added
